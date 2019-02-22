@@ -17,7 +17,7 @@
                     "architecture": "sam",
                     "version": "1.0.01",
                     "category": "Arduino@Heart",
-                    "url": "",
+                    "url": "https://github.com/cmusv/USGSBoard/raw/master/IDE_Board_Manager/USGSDue1.0.01.tar.bz2",
                     "archiveFileName": "USGSDue1.0.01.tar.bz2",
                     "checksum": "SHA-256:585d08a6cf8e480a8b11ed21dc8164f4e48c2955f24dce36b63a181e37715b83",
                     "size": "17380915",
