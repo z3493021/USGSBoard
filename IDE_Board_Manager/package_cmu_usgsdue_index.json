@@ -11,8 +11,7 @@
             "help": {
                 "online": "https://github.com/cmusv/powerdue"
             },
-            "platforms": [
-                {
+            "platforms": {
                     "name": "USGSDue SAM Boards (32-bits ARM Cortex-M3)",
                     "architecture": "sam",
                     "version": "1.0.01",
@@ -38,8 +37,7 @@
                             "version": "1.6.1-arduino"
                         }
                     ]
-                }
-            ],
+            },
             "tools": []
         }
     ]
