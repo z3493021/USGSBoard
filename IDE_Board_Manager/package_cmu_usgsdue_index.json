@@ -1,0 +1,46 @@
+{
+    "packages": [
+        {
+            "name": "USGS Due",
+            "maintainer": "CMU @ Silicon Valley",
+            "websiteURL": "https://www.cmu.edu/silicon-valley/",
+            "email": [
+                "hongting.wang@sv.cmu.edu",
+                "yuqing.su@sv.cmu.edu"
+            ],
+            "help": {
+                "online": "https://github.com/cmusv/powerdue"
+            },
+            "platforms": [
+                {
+                    "name": "USGSDue SAM Boards (32-bits ARM Cortex-M3)",
+                    "architecture": "sam",
+                    "version": "1.0.01",
+                    "category": "Arduino@Heart",
+                    "url": "",
+                    "archiveFileName": "USGSDue1.0.01.tar.bz2",
+                    "checksum": "SHA-256:585d08a6cf8e480a8b11ed21dc8164f4e48c2955f24dce36b63a181e37715b83",
+                    "size": "17380915",
+                    "boards": [
+                        {
+                            "name": "USGSDue"
+                        }
+                    ],
+                    "toolsDependencies": [
+                        {
+                            "packager": "arduino",
+                            "name": "arm-none-eabi-gcc",
+                            "version": "4.8.3-2014q1"
+                        },
+                        {
+                            "packager": "arduino",
+                            "name": "bossac",
+                            "version": "1.6.1-arduino"
+                        }
+                    ]
+                }
+            ],
+            "tools": []
+        }
+    ]
+}
