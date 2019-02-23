@@ -10,7 +10,7 @@
             },
             "platforms": [
                 {
-                    "name": "PowerDue SAM Boards (32-bits ARM Cortex-M3)",
+                    "name": "USGSDue SAM Boards (32-bits ARM Cortex-M3)",
                     "architecture": "sam",
                     "version": "1.0.10",
                     "category": "Arduino@Heart",
@@ -20,7 +20,7 @@
                     "size": "17387649",
                     "boards": [
                         {
-                            "name": "PowerDue"
+                            "name": "USGSDue"
                         }
                     ],
                     "toolsDependencies": [
