@@ -14,7 +14,7 @@
                     "architecture": "sam",
                     "version": "1.0.10",
                     "category": "Arduino@Heart",
-                    "url": "https://github.com/cmusv/ArduinoBoards/raw/public/IDE_Board_Manager/cmusv-powerdue.1.0.10.tar.bz2",
+                    "url": "https://github.com/cmusv/USGSBoard/raw/master/IDE_Board_Manager/cmusv-powerdue.1.0.10.tar.bz2",
                     "archiveFileName": "cmusv-powerdue.1.0.10.tar.bz2",
                     "checksum": "SHA-256:5834b341e8db6c85a7edc6b0d038aa59975fac9f242eae28aaa282c60c6c6658",
                     "size": "17041543",
