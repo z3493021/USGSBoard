@@ -16,8 +16,8 @@
                     "category": "Arduino@Heart",
                     "url": "https://github.com/cmusv/USGSBoard/raw/master/IDE_Board_Manager/USGSDue.1.0.01.tar.bz2",
                     "archiveFileName": "USGSDue.1.0.01.tar.bz2",
-                    "checksum": "SHA-256:3942f0cdfeb0dfcb98ab5c3e455a23ccdb851c7876e9216de116cf44603ad18b",
-                    "size": "17387649",
+                    "checksum": "SHA-256:aadf2c0d5cd4e0724a53f6fb88e95fc199fd85068f99a2d15f4774d8a39d4480",
+                    "size": "16821779",
                     "boards": [
                         {
                             "name": "USGSDue"
