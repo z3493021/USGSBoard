@@ -1,7 +1,7 @@
 {
     "packages": [
         {
-            "name": "USGS Due",
+            "name": "Carnegie Mellon University",
             "maintainer": "CMU @ Silicon Valley",
             "websiteURL": "https://www.cmu.edu/silicon-valley/",
             "email": [
@@ -11,15 +11,16 @@
             "help": {
                 "online": "https://github.com/cmusv/powerdue"
             },
-            "platforms": {
+            "platforms": [
+                {
                     "name": "USGSDue SAM Boards (32-bits ARM Cortex-M3)",
                     "architecture": "sam",
                     "version": "1.0.01",
                     "category": "Arduino@Heart",
                     "url": "https://github.com/cmusv/USGSBoard/raw/master/IDE_Board_Manager/USGSDue1.0.01.tar.bz2",
                     "archiveFileName": "USGSDue1.0.01.tar.bz2",
-                    "checksum": "SHA-256:585d08a6cf8e480a8b11ed21dc8164f4e48c2955f24dce36b63a181e37715b83",
-                    "size": "17380915",
+                    "checksum": "SHA-256:8d132be06ba7b2bedd56c6ae6ddfc865095a16e2c0bf4ad262b1de0d51f5773a",
+                    "size": "17382486",
                     "boards": [
                         {
                             "name": "USGSDue"
@@ -37,7 +38,8 @@
                             "version": "1.6.1-arduino"
                         }
                     ]
-            },
+                }
+            ],
             "tools": []
         }
     ]
