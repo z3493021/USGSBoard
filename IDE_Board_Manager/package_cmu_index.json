@@ -14,10 +14,10 @@
                     "architecture": "sam",
                     "version": "1.0.10",
                     "category": "Arduino@Heart",
-                    "url": "https://github.com/cmusv/USGSBoard/raw/master/IDE_Board_Manager/cmusv-powerdue.1.0.10.tar.bz2",
-                    "archiveFileName": "cmusv-powerdue.1.0.10.tar.bz2",
-                    "checksum": "SHA-256:5834b341e8db6c85a7edc6b0d038aa59975fac9f242eae28aaa282c60c6c6658",
-                    "size": "17041543",
+                    "url": "https://github.com/cmusv/USGSBoard/raw/master/IDE_Board_Manager/USGSDue.1.0.01.tar.bz2",
+                    "archiveFileName": "USGSDue.1.0.01.tar.bz2",
+                    "checksum": "SHA-256:3942f0cdfeb0dfcb98ab5c3e455a23ccdb851c7876e9216de116cf44603ad18b",
+                    "size": "17387649",
                     "boards": [
                         {
                             "name": "PowerDue"
