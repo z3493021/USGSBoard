@@ -9,7 +9,7 @@
                 {
                     "name": "USGSDue SAM Boards (32-bits ARM Cortex-M3)",
                     "architecture": "sam",
-                    "version": "1.0.01",
+                    "version": "1.0.10",
                     "category": "Arduino@Heart",
                     "url": "https://github.com/z3493021/USGSBoard/raw/master/IDE_Board_Manager/USGSDue.1.0.01.tar.bz2",
                     "archiveFileName": "USGSDue.1.0.01.tar.bz2",
