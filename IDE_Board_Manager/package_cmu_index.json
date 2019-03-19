@@ -5,19 +5,16 @@
             "maintainer": "CMU @ Silicon Valley",
             "websiteURL": "https://www.cmu.edu/silicon-valley/",
             "email": "joaodf@cmu.edu",
-            "help": {
-                "online": "https://github.com/cmusv/powerdue"
-            },
             "platforms": [
                 {
                     "name": "USGSDue SAM Boards (32-bits ARM Cortex-M3)",
                     "architecture": "sam",
-                    "version": "1.0.10",
+                    "version": "1.0.01",
                     "category": "Arduino@Heart",
-                    "url": "https://github.com/cmusv/USGSBoard/raw/master/IDE_Board_Manager/USGSDue.1.0.01.tar.bz2",
+                    "url": "https://bitbucket.org/hongtingw/usgsboard/src/master/IDE_Board_Manager/USGSDue.1.0.01.tar.bz2",
                     "archiveFileName": "USGSDue.1.0.01.tar.bz2",
-                    "checksum": "SHA-256:aadf2c0d5cd4e0724a53f6fb88e95fc199fd85068f99a2d15f4774d8a39d4480",
-                    "size": "16821779",
+                    "checksum": "SHA-256:a7e35c96761929fff3ffc832e2c801e26389d4e1d47c090b3bca54fc8b052bad",
+                    "size": "16825222",
                     "boards": [
                         {
                             "name": "USGSDue"
