@@ -11,7 +11,7 @@
                     "architecture": "sam",
                     "version": "1.0.01",
                     "category": "Arduino@Heart",
-                    "url": "https://bitbucket.org/hongtingw/usgsboard/src/master/IDE_Board_Manager/USGSDue.1.0.01.tar.bz2",
+                    "url": "https://bitbucket.org/hongtingw/usgsboard/raw/ee9a54363d7c5747cc8ec04b6e8b41f1430e5ab0/IDE_Board_Manager/USGSDue.1.0.01.tar.bz2",
                     "archiveFileName": "USGSDue.1.0.01.tar.bz2",
                     "checksum": "SHA-256:a7e35c96761929fff3ffc832e2c801e26389d4e1d47c090b3bca54fc8b052bad",
                     "size": "16825222",
